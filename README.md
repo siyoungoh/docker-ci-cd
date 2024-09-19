@@ -1,5 +1,5 @@
 # docker-ci-cd
-차근차근 처음부터 배우는 Docker 와 CI/CD
+도커 쿠버네티스로 배우는 시스템 설계 사전과제
 
 ### 사전 과제
 1. Github 가입하기
@@ -15,7 +15,5 @@
 1) Docker 공식 사이트([링크](https://www.docker.com/get-started/))에 접속해 Docker Desktop 설치하기
 2) Docker 컨테이너 실행하기 : 공식사이트 [링크](https://docs.docker.com/guides/walkthroughs/run-a-container/) 를 참고해 컨테이너를 빌드한 후 실행시켜보세요.
 
-### 과제 제출하기
-- 위 과정을 완료했다면 아래 구글 설문폼을 작성해주세요. Docker 과제는 아래처럼 실행화면을 캡쳐해서 업로드 해주세요.
-- https://forms.gle/tKWLxPcfWDZS8WJn6
-![Docker-site](https://docs.docker.com/get-started/docker-concepts/the-basics/images/access-the-frontend.webp)
+### 사전 설문하기
+- **구글 설문폼을 작성해주세요.** https://forms.gle/tKWLxPcfWDZS8WJn6
